@@ -27,6 +27,7 @@
     "https": "^1.0.0",
     "internet-available": "^1.0.0",
     "jsonfile": "^4.0.0",
+    "joi": "^6.10.1",
     "loopback": "^3.0.0",
     "loopback-boot": "^2.6.5",
     "loopback-component-explorer": "^5.0.0",
